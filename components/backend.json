@@ -1,0 +1,17 @@
+{
+    "dreams": {
+      "dream1": {
+        "dreamId": "1",
+        "userId": "user123",
+        "dreamText": "I dreamt of flying over the mountains.",
+        "timestamp": "2024-01-04T12:00:00Z"
+      },
+      "dream2": {
+        "dreamId": "2",
+        "userId": "user456",
+        "dreamText": "Had a dream about meeting old friends.",
+        "timestamp": "2024-01-03T08:30:00Z"
+      }
+      
+    }
+  }
